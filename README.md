@@ -17,3 +17,10 @@ Ignoring the 2010s, there was a trend of songs staying on the charts longer and 
 
 It's also important to say that what the charts actually track has changed over the years. In the 1960s there was of course no Spotify streaming or social media sharing. Both of those now count towards the ranking. So any look at how long songs stay on the charts has as much to do with the way Billboard ranks them as the way people listen to music.
 
+I have a few ideas of future projects I want to do with this data:
+
+- Look at the songs that leave the chart after one week - it is much higher in the 2010s than at any other time period. Are these songs leaving the charts for good or do they just bump out for a week or two?
+- Group the data into other time periods (instead of just decades) to see where the trends really changed
+- Look at other charts from Billboard (i.e. Hot Country Songs, Germany Songs, etc.) to see how they look.
+- Look at the survival curves of songs within the top 10 or top 25 of the chart to see how that has changed over the years.
+- Look and see what other features about a song and its artist(s) correlate with the length of time they stay on chart. For example, if it's an individual singer, collaboration or band. If it's the artist's first time on the charts. The gender of the artist. And so on.
